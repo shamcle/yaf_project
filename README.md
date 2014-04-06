@@ -1,4 +1,7 @@
 yaf_project
 ===========
 
-base yaf 
+first commit
+------------
+
+  hello world 
